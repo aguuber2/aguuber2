@@ -12,13 +12,3 @@ Product Manager based in Washington, DC focused on building fast, minimalist con
 - **Zero Friction:** 100% free in the browser with no ads, no sign-ups, and no app downloads.
 
 **[Play Today's Daily Puzzle at mathing.co](https://www.mathing.co/)**
-
----
-
-### Launch & Writing
-- **Product Hunt:** [Mathing on Product Hunt](https://www.producthunt.com/posts/mathing)
-- **DEV Community (dev.to):** [I built a Wordle-style math game in a single HTML file that has turned into a daily morning rivalry with my dad and daughter](https://dev.to/aguuber/pressing-enter-ruins-flow-state-what-i-learned-watching-58-strangers-play-my-60-second-math-game-j64)
-- **Medium:** [Introducing Mathing: A Free Daily Mental Math Game You Can Play in 60 Seconds](https://aguuber.medium.com/introducing-mathing-a-free-daily-mental-math-game-you-can-play-in-60-seconds-9dffeda882ad)
-- **Substack:** [@aguuber](https://aguuber.substack.com/)
-- **X / Twitter:** [@aguuber](https://x.com/aguuber)
-- **Contact:** [hello@mathing.co](mailto:hello@mathing.co)
